@@ -4,11 +4,11 @@
  * @author darcrand
  */
 
-"use client";
+'use client'
 export default function AdminRootPage() {
   return (
     <>
       <h1>AdminRootPage</h1>
     </>
-  );
+  )
 }
